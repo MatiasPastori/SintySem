@@ -2,8 +2,8 @@
  ============================================================================
  Name        : TP1.c
  Author      : Matias Pastori
- Version     : 1.0
- Copyright   : Your copyright notice
+ Version     : 1.1
+ Copyright   : No Copypasteen mi codigo >:(
  Description : TP ANUAL ENTREGA 1 Sintaxis UTN FRBA 2019
  ============================================================================
  */
