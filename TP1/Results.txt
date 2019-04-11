@@ -1,0 +1,18 @@
+0XABC458DDF	Hexadecimal
+M	No Reconocido
+99F	No Reconocido
+9A	No Reconocido
+19213	Decimal
+0xFFA	Hexadecimal
+0XF2	Hexadecimal
+0237	Octal
+0	Octal
+12312	Decimal
+9421	Decimal
+AA	No Reconocido
+9A	No Reconocido
+14F	No Reconocido
+14	Decimal
+0X9F	Hexadecimal
+023	Octal
+0XABC458DDF	Hexadecimal
